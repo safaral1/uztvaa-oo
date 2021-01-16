@@ -1,0 +1,51 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTINF:-1,Фан Спорт  
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8 
+#EXTINF:-1,Спорт 2  
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sport2-ua.m3u8 
+#EXTINF:-1,Eurosport 1 HD  
+https://plbl.m9.lfstrm.tv/eurosport/normal/1/index.m3u8 
+#EXTINF:-1,Eurosport 1  
+http://188.113.190.12/82/tracks-v1a1/index.m3u8 
+#EXTINF:-1,Eurosport 1  
+http://178.217.72.66:80/225.201.2.93/tracks-v1a1/mono.m3u8 
+#EXTINF:-1,Eurosport 2 HD  
+https://plbl.m9.lfstrm.tv/eurosport_2_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-live4&provider_id=5bbf1e6e7bf7c4facb5e43e8 
+#EXTINF:-1,Eurosport 2  
+http://163.172.179.78:8081/tv/eurosport-2/playlist.m3u8 
+#EXTINF:-1,Extreme sports  
+http://178.217.72.66:80/225.201.2.80/tracks-v1a1/mono.m3u8  
+#EXTINF:-1,Астрахань.Ru Sport HD  
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8 
+#EXTINF:-1, Al Kass Sports 4 HD  
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4 
+#EXTINF:0,Adventure Sports Network  
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8  
+#EXTINF:-1,Al Kass Sports 1 HD  
+http://www.elahmad.com/tv/m3u8/alkass.m3u8 
+#EXTINF:-1,Olympic Channel  
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8 
+#EXTINF:-1,Olympic Channel HD  
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8 
+#EXTINF:-1,Red Bull TV  
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 
+#EXTINF:-1,Спорт MAX HD  
+http://161.0.157.8/PLTV/88888888/224/3221226766/01.m3u8  
+#EXTINF:-1,Turkmen Спорт  
+http://alpha.tv.online.tm/hls/ch004_400/index.m3u8 
+#EXTINF:-1,Turkmen Спорт HD  
+http://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8 
+#EXTINF:-1, Setanta Sports UA HD  
+http://tv1.u-net.co:10001/setanta_sports/tracks-v1a1/index.m3u8 
+#EXTINF:-1,Viasat Sport HD  
+http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
+#EXTINF:-1,Диалоги о рыбалке HD  
+https://plbl.m9.lfstrm.tv/dialogi_o_ribalke_hd/normal/index.m3u8 
+#EXTINF:-1,Oхотник и Рыболов HD  
+https://plbl.m9.lfstrm.tv/ohotnik_i_rybolov_hd/normal/3/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8 
+#EXTINF:-1,Авто24  
+https://plbl.m9.lfstrm.tv/auto_24/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-live1&provider_id=5bbf1e6e7bf7c4facb5e43e8 
+#EXTINF:-1 ,Бокс ТВ
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/boks-tv.m3u8
+#EXTINF:-1 ,Спорт 1
+http://s01.iptvx.tv:8090/s/0d1e1d971b4761ed10aeebb9aab36d0a/sport1-ua.m3u8
