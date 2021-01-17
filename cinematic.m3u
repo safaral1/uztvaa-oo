@@ -1,0 +1,159 @@
+﻿#EXTM3U url-tvg="http://epg.it999.ru/edem.xml.gz"
+#EXTINF:-1,ULTO
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1,Teo TV
+http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
+#EXTINF:-1,Kino 24
+http://85.192.44.14/hls/Kino24Ru/playlist.m3u8
+#EXTINF:-1,Мужское кино
+http://89.189.191.250/239.211.211.145/stream.m3u8
+#EXTINF:-1,СОВЕТСКОЕ КИНО
+https://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8
+#EXTINF:-1,СССР
+http://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Наше кино" tvg-logo="http://only4.tv/ch/820.png",Дом кинo
+http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+#EXTINF:-1,Zigfreed CINEMA
+http://zigfreed.ru:8080/Z!/index.m3u8
+#EXTINF:-1,ГАЛ ТВ
+https://hls.myvideocontent.ru/hls2/galtv/index.m3u8
+#EXTINF:0,Millenium TV SD
+http://tv1.mmg.ooo/live/sd.stream/playlist.m3u8
+#EXTINF:0,Millenium tv HD
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1,СИТИ ЕДЕМ КИНОКЛАСИКА
+https://autopilot.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1,СИТИ ЕДЕМ ТВ HD
+https://autopilot.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1,СССР
+https://autopilot.catcast.tv/content/34816/index.m3u8
+#EXTINF:-1,EVGENIY СССР
+https://autopilot.catcast.tv/content/36168/index.m3u8
+#EXTINF:-1,EVGENIY VHS
+https://autopilot.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1,EVGENIY УЖАСЫ
+https://autopilot.catcast.tv/content/36277/index.m3u8
+#EXTINF:-1,EVGENIY НОВОГОДНИЙ
+https://autopilot.catcast.tv/content/36506/index.m3u8
+#EXTINF:-1,СМЕШНОЕ ТВ
+https://autopilot.catcast.tv/content/36571/index.m3u8
+#EXTINF:-1,EVGENIY ДРАМА
+https://autopilot.catcast.tv/content/36732/index.m3u8
+#EXTINF:-1,Марс-ТВ HD
+https://autopilot.catcast.tv/content/37033/index.m3u8
+#EXTINF:-1,ЛИХО
+https://autopilot.catcast.tv/content/37311/index.m3u8
+#EXTINF:-1,VHS
+https://autopilot.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1,МУЛЬТФИЛЬМ1
+https://autopilot.catcast.tv/content/38105/index.m3u8
+#EXTINF:-1,МУЛЬТФИЛЬМ
+https://autopilot.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1,ТВОЕ ТВ HD
+https://autopilot.catcast.tv/content/38197/index.m3u8
+#EXTINF:-1,КИНО1 INTERNATIONAL
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1,ДЕТСКОЕ КИНО INTERNATIONAL
+https://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1,КИНО3
+https://autopilot.catcast.tv/content/38798/index.m3u8
+#EXTINF:-1,ФАНТАСТИКА
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,СССР
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1,МУЛЬТ
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1,КИНО4
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1,КИНО3
+https://autopilot.catcast.tv/content/38978/index.m3u8
+#EXTINF:-1,MUSIC1HD
+https://autopilot.catcast.tv/content/39116/index.m3u8
+#EXTINF:-1,КИНО5
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1,JETIX
+https://autopilot.catcast.tv/content/39373/index.m3u8
+#EXTINF:-1,КИНО6
+https://autopilot.catcast.tv/content/39478/index.m3u8
+#EXTINF:-1,СДЕЛАНО В СССР
+http://st.cdn-tv.club/iptv/dGwzU3hUYkJsMThiRXhxMklIeW4zb0lWbThsZWdHV3ZKVTRIeVlKVm1rVT0/video.ts
+#EXTINF:-1,Мосфильм 2
+http://xiptv.site/iptvteam.flv
+#EXTINF:-1,МОСФИЛЬМ HD
+https://cdn-curie.wasd.tv/live/927775/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ЛЕНФИЛЬМ HD
+https://cdn-curie.wasd.tv/live/927783/tracks-v1a1/mono.m3u8
+#EXTINF:-1,СССР HD
+https://cdn-curie.wasd.tv/live/927790/tracks-v1a1/mono.m3u8
+#EXTINF:-1,СССР
+https://cdn-curie.wasd.tv/live/927795/tracks-v1a1/mono.m3u8
+#EXTINF:-1,СССР2
+https://cdn-curie.wasd.tv/live/930155/tracks-v1a1/mono.m3u8
+#EXTINF:-1,УКРАИНСВАЯ ССР HD
+https://cdn-curie.wasd.tv/live/930157/tracks-v1a1/mono.m3u8
+#EXTINF:-1,VKTV ПРЕМЬЕРА
+https://cdnnow.goodgame.ru/hls/173945.m3u8
+#EXTINF:-1,VIP Cinema HD
+http://cdnnow.goodgame.ru/hls/153640.m3u8
+#EXTINF:-1 ,Мосфильм 2
+http://xiptv.site/iptvteam.flv
+#EXTINF:-1,AKUDJI TV HD
+http://cdnnow.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1,VIP HORROR HD
+http://cdnnow.goodgame.ru/hls/178234.m3u8
+#EXTINF:-1,ФИЛЬМ ТВ HD
+http://cdnnow.goodgame.ru/hls/178880.m3u8
+#EXTINF:-1,Pzn Stream HD
+http://cdnnow.goodgame.ru/hls/180960.m3u8
+#EXTINF:-1,ФАНТАСТИКА
+http://cdnnow.goodgame.ru/hls/181070.m3u8
+#EXTINF:-1,KVN HD
+http://cdnnow.goodgame.ru/hls/181746.m3u8
+#EXTINF:-1,SeleCaoTV
+http://cdnnow.goodgame.ru/hls/163253.m3u8
+#EXTINF:-1,STR TV HD
+http://cdnnow.goodgame.ru/hls/130048.m3u8
+
+#EXTINF:-1, tvg-id="1", 01 - Все мульты
+https://5656.ga/ch1.m3u8
+#EXTINF:-1, tvg-id="2", 02 - Все сериалы
+https://5656.ga/ch2.m3u8
+#EXTINF:-1, tvg-id="3", 03 - Другие сериалы
+https://5656.ga/ch3.m3u8
+#EXTINF:-1, tvg-id="4", 04 - X-Files
+https://5656.ga/ch4.m3u8
+#EXTINF:-1, tvg-id="5", 05 - Полный метр
+https://5656.ga/ch5.m3u8
+#EXTINF:-1, tvg-id="6", 06 - Полный метр
+https://5656.ga/ch6.m3u8
+#EXTINF:-1, tvg-id="7", 07 - Полный метр
+https://5656.ga/ch7.m3u8
+#EXTINF:-1, tvg-id="8", 08 - Полный метр
+https://5656.ga/ch8.m3u8
+#EXTINF:-1, tvg-id="9", 09 - Популярные мульты и сериалы вместе
+https://5656.ga/ch9.m3u8
+#EXTINF:-1, tvg-id="10", 10 - Друзья
+https://5656.ga/ch10.m3u8
+#EXTINF:-1, tvg-id="11", 11 - Еще сериалы
+https://5656.ga/ch11.m3u8
+#EXTINF:-1, tvg-id="12", 12 - И еще сериалы
+https://5656.ga/ch12.m3u8
+#EXTINF:-1, tvg-id="13", 13 - Больше каналов с фильмами
+https://5656.ga/ch13.m3u8
+#EXTINF:-1, tvg-id="14", 14 - Больше каналов с фильмами
+https://5656.ga/ch14.m3u8
+#EXTINF:-1, tvg-id="15", 15 - Непопулярные сериалы
+https://5656.ga/ch15.m3u8
+#EXTINF:-1, tvg-id="16", 16 - Непопулярные сериалы
+https://5656.ga/ch16.m3u8
+#EXTINF:-1, tvg-id="17", 17 - Сериалы
+https://5656.ga/ch17.m3u8
+#EXTINF:-1, tvg-id="18", 18 - Сериалы
+https://5656.ga/ch18.m3u8
+
+
+
+
+
+
+
