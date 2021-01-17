@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://a775797005-zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw2000000/playlist.m3u8?utcstart=1593846000&version=2
+#EXT-X-I-FRAME-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,URI="http://a775797005-zabava-htlive.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw2000000/iframes.m3u8?utcstart=1593846000&version=2"
