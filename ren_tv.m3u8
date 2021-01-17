@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:2
+#EXT-X-STREAM-INF:BANDWIDTH=2064000
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
